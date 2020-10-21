@@ -1,1 +1,2 @@
 # PROJECT-3
+USING PATIENT DATA TO PREDICT COVID-19 CONTRACTION, RECOVERY AND MORTALITY: The project uses fifteen data features of a patient such as blood pressure, COPD, pneumonia, heart-rate, age, weight, gender and so on, from an open-source data set, to classify the patient among contracting, recovering or dying from COVID-19. Apache Spark Machine Learning Algorithms as well as Keras Deep Learning Model Framework with Activation Functions and Dense Layers are used to predict the classification. The code is executed on the IBM Watson Cloud in PYTHON.
